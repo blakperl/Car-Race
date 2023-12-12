@@ -1,0 +1,22 @@
+#track{
+    background-image: url('/care-race/images/road.jpg');
+    height:330px;
+    border-right : 10px dashed white;
+    margin-bottom: 35px;
+}
+#car2{
+    top:100px;
+}
+#car1{
+    top:30px;
+}
+.cars{
+    display:block;
+    position: relative;
+}
+
+.raceinfo{
+    background-color:grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
